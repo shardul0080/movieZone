@@ -1,5 +1,5 @@
 import React from 'react';
-import Movies from './Moviezone/Movies';
+import Movies from './Moviezone/Movies.jsx';
 
 const App = () => {
   return (
